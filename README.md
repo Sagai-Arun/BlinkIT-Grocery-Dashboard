@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/d158c17e-cfc6-430d-8051-77484777f45a)
+
 **BlinkIT Grocery Dashboard**
 
 Welcome to the BlinkIT Grocery Dashboard—a dynamic Power BI project built to uncover actionable insights from grocery retail operations data. This interactive dashboard provides a clear overview of key performance indicators (KPIs) related to item sales, ratings, and outlet performance, designed for data-driven decision-making in the retail domain.
